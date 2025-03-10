@@ -7,3 +7,6 @@
 
 #### Why stikmen?
 Well, this project was inspired by an object oriented programming "kinda" assignment.
+
+#### Compability
+This project uses libraries for linux like termios and it won't work on windows.
